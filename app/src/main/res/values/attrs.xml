@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="dist1" format="dimension" />
+        <attr name="height" format="dimension" />
+        <attr name="dist2" format="dimension" />
+        <attr name="gravity"/>
+    </declare-styleable>
+
+</resources>
